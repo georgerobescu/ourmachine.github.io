@@ -1,5 +1,5 @@
 +++
 title = "Writing"
-description = "A home for informal writings and reflections."
+description = "A home for writing and reflections."
 image = "https://ourmachine.net/images/eclipse.png"
 +++

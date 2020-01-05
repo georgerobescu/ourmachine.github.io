@@ -1,7 +1,7 @@
 +++
 title = "Some true, some farce: Predictions for the 2020s"
 date = 2020-01-06
-image = "https://ourmachine.net/images/eclipse.png"
+image = "http://www.ourmachine.net/images/eclipse.png"
 description = "I’ve decided to experiment with posting more of what I think about in public, with my first post contributing to the common pool of predictions for the next decade."
 [taxonomies]
 tags = ["space", "ar", "ecology"]

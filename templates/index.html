@@ -68,14 +68,15 @@
 							</div>
 						</div>
 				</div>
-				<div class="section" id="splash">
-				{% for link in config.extra.sam_menu %}
+				<div class="section landing" id="splash">
+				<!--{% for link in config.extra.sam_menu %}
 					<div class="big-link">
 					   <a href="{{ link.link }}">
 						  {{ link.text }}
 					   </a>
 					</div>
-				{% endfor %}
+				{% endfor %}-->
+				{{ macros::bottom_menu() }}
 				</div>
 			 
 			{% else %}
@@ -92,6 +93,7 @@
 			 {% endif %}
 
 		  
+
 	   {% endblock body %}
 	</body>
 </html>

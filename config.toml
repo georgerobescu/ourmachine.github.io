@@ -15,6 +15,8 @@ title = "ourmachine.net"
 
 check_external_links = true
 
+generate_rss = true
+
 taxonomies = [
     {name = "tags", rss = true}
 ]
@@ -23,17 +25,18 @@ taxonomies = [
 show_word_count = true
 show_reading_time = true
 
-date_format = "%a %b %e, %Y"
+date_format = "%Y %B %d"
 
 home = "Home"
 
 sam_menu = [
     { text = "Writing", link = "/writing" },
-    { text = "Bio", link = "https://kei.bio/about" },
+    { text = "RSS", link = "/rss.xml" },
+    { text = "Bio", link = "/bio" },
     { text = "Twitter", link = "https://twitter.com/keikreutler" }
 ]
 
 sam_bottom_menu = true
 
 [extra.sam_footer]
-text = """ "Reality comes after the dream." S1:E24 """
+text = """ "Reality comes after the dream." S1:E25 """

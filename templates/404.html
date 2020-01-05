@@ -7,13 +7,12 @@
 {% endblock htmltitle %}
 
 {% block title %}
-    Not found
+    Nothing here.
 {% endblock title %}
 
 {% block content %}
 <p>
-    Oops, looks like this content is not available.
-    <br>
-    <a href="{{ config.base_url }}">{{ config.extra.home | default(value="home") }}</a>
+    Journey
+    <a href="{{ config.base_url }}">home</a>.
     </p>
 {% endblock content %}

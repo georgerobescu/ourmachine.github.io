@@ -3,44 +3,80 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="chrome=1">
-        <meta name="HandheldFriendly" content="True">
-        <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="referrer" content="no-referrer">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="referrer" content="no-referrer">
 
-        <link rel="stylesheet" href="{{ get_url(path='fonts.css') }}">
-        <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+		<link rel="icon" type="image/png" href="/icon.png">
 
-        <title>{% block htmltitle %}{{ config.title }}{% endblock htmltitle %}</title>
+		<link rel="stylesheet" href="{{ get_url(path='fonts.css') }}">
+		<link rel="stylesheet" href="{{ get_url(path='style.css') }}">
 
-        {% if config.generate_rss %}
-            <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path='rss.xml') }}">
-        {% endif %}
+		<title>{% block htmltitle %}{{ config.title }}{% endblock htmltitle %}</title>
+
+		{% if config.generate_rss %}
+		  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path='rss.xml') }}">
+		{% endif %}
+
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="example.com" />
+		{%if section.title%}
+		<title>{{ section.title }}</title>
+		<meta name="og:title" content="{{ section.title }}" />
+		{%endif%}
+		{%if page.title%}
+		<title>{{ page.title }}</title>
+		<meta name="og:title" content="{{ page.title }}" />
+		{%endif%}
+
+		<meta name="description" content="Where the informal writing and relections of Kei Kreutler live." />
+		<meta name="og:description" content="Where the informal writing and relections of Kei Kreutler live." />
+
+		{%if page.image%}
+		<meta name="description" content="{{ page.image }}" />
+		<meta property=”og:image” content="{{ page.image }}" />
+		{%endif%}
+	   
     </head>
     <body>
-        {% block body %}
-            <div class="section" id="splash">
-                {% if config.extra.sam_menu %}
-                    {% for link in config.extra.sam_menu %}
-                        <div class="big-link">
-                            <a href="{{ link.link }}">
-                                {{ link.text }}
-                            </a>
-                        </div>
-                    {% endfor %}
-                {% else %}
-                    {% for current in section.subsections %}
-                        {% set current = get_section(path=current) %}
-                        <div class="big-link">
-                            <a href="{{ current.permalink }}">
-                                {{ macros::title_or_last(component=current) }}
-                            </a>
-                        </div>
-                    {% endfor %}
-                {% endif %}
-            </div>
-        {% endblock body %}
+	   {% block body %}
+		 
+			 {% if config.extra.sam_menu %}
+			 	<div id="landing-background">
+			 		<div class="mask-container">
+							<div class="mask-window">
+								<div class="mask-image">
+								</div>
+							</div>
+						</div>
+			 	</div>
+				 	<div class="section" id="splash">
+					{% for link in config.extra.sam_menu %}
+					    <div class="big-link">
+						   <a href="{{ link.link }}">
+							  {{ link.text }}
+						   </a>
+					    </div>
+					{% endfor %}
+					</div>
+			 
+			 {% else %}
+			 	<div class="section" id="splash">
+				{% for current in section.subsections %}
+				    {% set current = get_section(path=current) %}
+				    <div class="big-link">
+					   <a href="{{ current.permalink }}">
+						  {{ macros::title_or_last(component=current) }}
+					   </a>
+				    </div>
+				{% endfor %}
+				</div>
+			 {% endif %}
+
+		  
+	   {% endblock body %}
     </body>
 </html>

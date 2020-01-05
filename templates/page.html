@@ -30,7 +30,7 @@
                 {{ page.reading_time }} min
             {% endif %}
         {% endif %}
-        {% if page.taxonomies.tags %}
+        <!--{% if page.taxonomies.tags %}
             <div class="tag-container">
                 {% for tag in page.taxonomies.tags %}
                     <span class="tag">
@@ -40,8 +40,7 @@
                     </span>
                 {% endfor %}
             </div>
-        {% endif %}
-        <hr/>
+        {% endif %}-->
     {% endif %}
     {{ page.content | safe }}
 {% endblock content %}

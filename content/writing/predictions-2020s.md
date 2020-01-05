@@ -33,4 +33,4 @@ A non-exhaustive list:
 1. Most mountains stay mountains.
 
 
-_Image: Depiction of lunar eclipse by Zakariya ibn Muhammad Qazwini (ca. 1203-1283), [Walters Museum Collection](https://art.thewalters.org/detail/83924/lunar-eclipse/)_
+_Image: Depiction of lunar eclipse by Zakariya ibn Muhammad Qazwini (ca. 1203-1283), Walters Museum Collection_

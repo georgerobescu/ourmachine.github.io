@@ -11,7 +11,7 @@ tags = ["space", "ar", "ecology"]
 ![Depiction of lunar eclipse by Zakariya ibn Muhammad Qazwini (ca. 1203-1283)](/images/eclipse.png)
 
 
-Despite all signs pointing to social platforms as time-sucking maelstroms and phones as anti-dream machines, this year I’ve decided to experiment with posting more of what I actually think about in public. It feels fitting to start this endeavor by impulsively contributing to the common pool of predictions for the next decade. Enjoy. _And subscribe to the [RSS feed](/rss.xml) if that's your thing._
+Despite all signs pointing to social platforms as time-sucking maelstroms and phones as anti-dream machines, this year I’ve decided to experiment with posting more of what I actually think about in public. It feels fitting to start this endeavor by impulsively contributing to the common pool of predictions for the next decade. Enjoy. _And subscribe to the [RSS feed](https://ourmachine.net/rss.xml) if that's your thing._
 
 
 A non-exhaustive list:

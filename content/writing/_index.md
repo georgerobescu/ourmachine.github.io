@@ -1,5 +1,5 @@
 +++
 title = "Writing"
-description = "Where the informal writing and relections of Kei Kreutler live."
+description = "A home for informal writings and reflections."
 image = "https://ourmachine.net/images/eclipse.png"
 +++

@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
+	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="chrome=1">
 		<meta name="HandheldFriendly" content="True">
@@ -18,11 +18,11 @@
 		<title>{% block htmltitle %}{{ config.title }}{% endblock htmltitle %}</title>
 
 		{% if config.generate_rss %}
-		  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path='rss.xml') }}">
+			<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path='rss.xml') }}">
 		{% endif %}
 
 		<meta property="og:type" content="website" />
-		<meta property="og:site_name" content="example.com" />
+		<meta property="og:site_name" content="ourmachine.net" />
 		{%if section.title%}
 		<title>{{ section.title }}</title>
 		<meta name="og:title" content="{{ section.title }}" />
@@ -32,8 +32,15 @@
 		<meta name="og:title" content="{{ page.title }}" />
 		{%endif%}
 
-		<meta name="description" content="Where the informal writing and relections of Kei Kreutler live." />
-		<meta name="og:description" content="Where the informal writing and relections of Kei Kreutler live." />
+		{%if section.description%}
+		<meta name="description" content="A home for informal writings and reflections." />
+		<meta name="og:description" content="A home for informal writings and reflections." />
+		{%endif%}
+
+		{%if page.description%}
+		<meta name="description" content="{{ page.description }}" />
+		<meta name="og:description" content="{{ page.description }}" />
+		{%endif%}
 
 		{%if page.image%}
 		<meta name="description" content="{{ page.image }}" />
@@ -50,43 +57,43 @@
 			gtag('config', 'UA-59785432-7');
 		</script>
 	   
-    </head>
-    <body>
+	</head>
+	<body>
 	   {% block body %}
 		 
-			 {% if config.extra.sam_menu %}
-			 	<div id="landing-background">
-			 		<div class="mask-container">
+			{% if config.extra.sam_menu %}
+				<div id="landing-background">
+					<div class="mask-container">
 							<div class="mask-window">
 								<div class="mask-image">
 								</div>
 							</div>
 						</div>
-			 	</div>
-				 	<div class="section" id="splash">
-					{% for link in config.extra.sam_menu %}
-					    <div class="big-link">
-						   <a href="{{ link.link }}">
-							  {{ link.text }}
-						   </a>
-					    </div>
-					{% endfor %}
+				</div>
+				<div class="section" id="splash">
+				{% for link in config.extra.sam_menu %}
+					<div class="big-link">
+					   <a href="{{ link.link }}">
+						  {{ link.text }}
+					   </a>
 					</div>
+				{% endfor %}
+				</div>
 			 
-			 {% else %}
-			 	<div class="section" id="splash">
+			{% else %}
+				<div class="section" id="splash">
 				{% for current in section.subsections %}
-				    {% set current = get_section(path=current) %}
-				    <div class="big-link">
+					{% set current = get_section(path=current) %}
+					<div class="big-link">
 					   <a href="{{ current.permalink }}">
 						  {{ macros::title_or_last(component=current) }}
 					   </a>
-				    </div>
+					</div>
 				{% endfor %}
 				</div>
 			 {% endif %}
 
 		  
 	   {% endblock body %}
-    </body>
+	</body>
 </html>

@@ -62,13 +62,22 @@
 			{% if config.extra.sam_menu %}
 				<div id="landing-background">
 					<div class="mask-container">
-							<div class="mask-window">
-								<div class="mask-image">
-								</div>
-							</div>
+						<div class="mask-window">
+							<img class="mask-image" src="/images/sevenofcups.jpg">
 						</div>
+					</div>
+					
 				</div>
 				<div class="section landing" id="splash">
+					<div class="landing-links">
+						&nbsp;
+						{% for link in config.extra.sam_menu %}
+					   	<a href="{{ link.link }}" style="color: #fff">
+						  {{ link.text }}
+					   	</a>
+					   	&nbsp;
+					   	{% endfor %}	
+					</div>
 				<!--{% for link in config.extra.sam_menu %}
 					<div class="big-link">
 					   <a href="{{ link.link }}">
@@ -76,7 +85,7 @@
 					   </a>
 					</div>
 				{% endfor %}-->
-				{{ macros::bottom_menu() }}
+				<!--{{ macros::bottom_menu() }}-->
 				</div>
 			 
 			{% else %}

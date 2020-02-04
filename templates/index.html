@@ -41,10 +41,12 @@
 		<meta name="description" content="{{ page.description }}" />
 		<meta name="og:description" content="{{ page.description }}" />
 		{%endif%}
-		
-		<meta name="image" content="http://www.ourmachine.net/images/eclipse.png" />
-		<meta property=”og:image” content="http://www.ourmachine.net/images/eclipse.png" />
-		<meta name="twitter:image" content="http://www.ourmachine.net/images/eclipse.png">
+
+		{%if page.image%}
+		<meta name="image" content="{{ page.image }}" />
+		<meta property=”og:image” content="{{ page.image }}" />
+		<meta name="twitter:image" content="{{ page.image }}">
+		{%endif%}
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-59785432-7"></script>

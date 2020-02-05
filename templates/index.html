@@ -42,10 +42,10 @@
 		<meta name="og:description" content="{{ page.description }}" />
 		{%endif%}
 
-		{%if page.image%}
-		<meta name="image" content="{{ page.image }}" />
-		<meta property=”og:image” content="{{ page.image }}" />
-		<meta name="twitter:image" content="{{ page.image }}">
+		{%if page.extra.image%}
+		<meta name="image" content="{{ page.extra.image }}" />
+		<meta property=”og:image” content="{{ page.extra.image }}" />
+		<meta name="twitter:image" content="{{ page.extra.image }}">
 		{%endif%}
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->

@@ -25,7 +25,7 @@ flat like a bug._
 Her dog chases my stones.  
 He waddles, uninterested,  
 missing one leg,  
-he lost in the war,
+he lost in the war  
 
 but still smiles like tin.  
 I return to the emery board.  

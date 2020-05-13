@@ -9,7 +9,7 @@ image = "http://www.ourmachine.net/images/20200205_watch_crop.png"
 +++
 
 ![Diagram](/images/20200205_ak_diagram.png)
-<p id="caption">A schematic representation of the gearing of the Antikythera Mechanism, namely the true sun pointer and pointers for the planets (Freeth and Jones, 2012).</p>
+<p id="caption-1">A schematic representation of the gearing of the Antikythera Mechanism, namely the true sun pointer and pointers for the planets (Freeth and Jones, 2012).</p>
 
 > 	“The revival of magical beliefs is possible today because it no longer represents a social threat. [...] Astrology too can be allowed to return, with the certainty that even the most devoted consumer of astral charts will automatically consult their watch before going to work.”  
 Silvia Federici, _Caliban and the Witch_

@@ -9,7 +9,7 @@ no_header = true
 +++
 
 	
-I'm Kei Kreutler. My work includes writing and organizing around utopian conspiracies and new cosmograms as theories of political change and ecological resilience. I've worked on decentralized co-operatives, augmented reality game projects, and software for open source space observation. I <strike>want to</strike> believe.
+I'm Kei Kreutler. My work includes writing and organizing around cosmograms as theories of political change and ecological resilience. I've worked on decentralized co-operatives, augmented reality game projects, and software for open source space observation. I <strike>want to</strike> believe.
 
 I'm currently Strategy Director at [Gnosis](https://gnosis.io). You can send me an email [here](mailto:kei+blog@ourmachine.net).
 

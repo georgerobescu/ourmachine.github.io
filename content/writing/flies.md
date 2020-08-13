@@ -4,7 +4,7 @@ date = 2020-03-15
 [taxonomies]
 tags = ["poetry"]
 [extra]
-image = "http://www.ourmachine.net/images/20200315_flies.jpg"
+image = "/images/20200315_flies.jpg"
 +++
 
 <br><br>

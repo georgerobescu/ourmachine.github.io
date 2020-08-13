@@ -5,7 +5,7 @@ description = "What produces planetary memory?"
 [taxonomies]
 tags = ["astrology", "memory palaces", "hermeticism"]
 [extra]
-image = "http://www.ourmachine.net/images/memory_seal.jpg"
+image = "/images/memory_seal.jpg"
 +++
 
 

@@ -5,7 +5,7 @@ description = "Or, make time aesthetic again."
 [taxonomies]
 tags = ["space", "astrology", "time"]
 [extra]
-image = "http://www.ourmachine.net/images/20200205_watch_crop.png"
+image = "/images/20200205_watch_crop.png"
 +++
 
 ![Diagram](/images/20200205_ak_diagram.png)

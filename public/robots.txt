@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ourmachine.net/sitemap.xml

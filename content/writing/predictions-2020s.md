@@ -5,7 +5,7 @@ description = "I’ve decided to experiment with posting more of what I think ab
 [taxonomies]
 tags = ["space", "ar", "ecology"]
 [extra]
-image = "http://www.ourmachine.net/images/eclipse.png"
+image = "/images/eclipse.png"
 +++
 
 

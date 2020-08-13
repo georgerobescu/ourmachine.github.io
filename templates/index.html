@@ -43,9 +43,9 @@
 		{%endif%}
 
 		{%if page.extra.image%}
-		<meta name="image" content="{{ page.extra.image }}" />
-		<meta property=”og:image” content="{{ page.extra.image }}" />
-		<meta name="twitter:image" content="{{ page.extra.image }}">
+		<meta name="image" content="{{ config.base_url }}{{ page.extra.image }}" />
+		<meta property=”og:image” content="{{ config.base_url }}{{ page.extra.image }}" />
+		<meta name="twitter:image" content="{{ config.base_url }}{{ page.extra.image }}">
 		{%endif%}
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->

@@ -5,7 +5,7 @@ description = "Who has the power to be responsible for deciding how decisions ar
 [taxonomies]
 tags = ["blockchain", "governance", "DAOs", "tarot", "archtypes", "technosphere", "hkw"]
 [extra]
-image = "http://www.ourmachine.net/images/byzantine/img1.jpg"
+image = "/images/byzantine/img1.jpg"
 +++
 
 <br><br> 

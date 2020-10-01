@@ -7,7 +7,97 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ourmachine.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Eight Qualities of Decentralized Autonomous Organizations</title>
+                <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+                <link>https://ourmachine.net/writing/eight-qualities-daos/</link>
+                <guid>https://ourmachine.net/writing/eight-qualities-daos/</guid>
+                <description>&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Metaphors can guide our understanding of abstract concepts. There are metaphors we live by and lesser known metaphors through which we organize. A 1980s bestseller, Gareth Morgan’s &lt;em&gt;Images of Organizations&lt;&#x2F;em&gt; looks at organizations through eight metaphors.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;ribbonfarm_orgs.png&quot; alt=&quot;8 Metaphors of Organizations&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p class=&quot;caption&quot;&gt;Via &lt;a href=&quot;https:&#x2F;&#x2F;www.ribbonfarm.com&#x2F;2010&#x2F;07&#x2F;13&#x2F;the-eight-metaphors-of-organization&#x2F;&quot;&gt;Ribbonfarm&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Though variably understood as machines, organisms, brains, cultures, political systems, psychic prisons, flux and transformation, and instruments of domination, organizational abstractions are resistant to context switching. As &lt;a href=&quot;https:&#x2F;&#x2F;www.ribbonfarm.com&#x2F;2010&#x2F;07&#x2F;13&#x2F;the-eight-metaphors-of-organization&#x2F;&quot;&gt;@vgr wrote&lt;&#x2F;a&gt; in 2010, “The main reason this book is hugely valuable is that 99% of organizational conversations stay exclusively within one metaphor.  Worse, most people are permanently stuck in their favorite metaphor.”&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; While organizations are easily subject to projection, it seems our ability to adapt how we inhabit them falters.&lt;&#x2F;p&gt;
+&lt;p&gt;Today, the organizational unconscious looms large against the failure of institutions and infrastructure to support public welfare, and the multigenerational quest for the resilient organization continues. One conception gaining adherents is the DAO: a decentralized autonomous organization.&lt;&#x2F;p&gt;
+&lt;p&gt;The phrase was originally borne from a culture privileging the concept of autonomy.  The term &lt;a href=&quot;https:&#x2F;&#x2F;forum.ethereum.org&#x2F;discussion&#x2F;392&#x2F;deodands-dacs-for-natural-systems&quot;&gt;DAC&lt;&#x2F;a&gt; (decentralized autonomous company) first appeared in order to describe a natural system that is conceived of as self-governing within a humanist framework. Linked to the eleventh century “deodand” legal entity, a physical object that has been granted personhood in order to be litigated against, DACs were inspired by rivers and coral reefs granted legal rights. Evolving from DAC into DAO, the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_DAO_(organization)&quot;&gt;first instance&lt;&#x2F;a&gt; in the world under this term was presented as an unstoppable funding body, which unfortunately was hacked one month after launch. &lt;a href=&quot;https:&#x2F;&#x2F;daohaus.club&#x2F;explore&quot;&gt;Later iterations of DAOs&lt;&#x2F;a&gt; can be viewed as software tools that encourage coordination through voting on proposals and allocating funding. As peer-to-peer institutions, DAOs have the potential to significantly decrease the barriers to and costs of starting an organization.&lt;&#x2F;p&gt;
+&lt;p&gt;Today, DAO has strayed from its initial signifiers and become a more chimeric term that might best describe a voluntary association in favor of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Platform_cooperative&quot;&gt;digital cooperativism&lt;&#x2F;a&gt;. Its practical  instantiation in the world varies widely depending on disciplinary context. The analytical work to develop a &lt;a href=&quot;&#x2F;images&#x2F;qualities&#x2F;DAO_taxonomy.pdf&quot;&gt;taxonomy of DAOs&lt;&#x2F;a&gt; continues elsewhere, however. Instead, inspired by the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Rochdale_Principles&quot;&gt;Rochdale Principles&lt;&#x2F;a&gt; for cooperatives, here we can playfully walk through eight imagined qualities of decentralized autonomous organizations. These inexhaustive qualities are not structurally inhabitable yet, but they do present an open pattern language for typeforms of organizing to come.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;h2&gt;Autopoietic&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;1_Cups07.jpg&quot; alt=&quot;7 of Cups Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The autopoietic quality indicates the organization can reproduce and maintain itself without a single point of failure.&lt;&#x2F;p&gt;
+&lt;p&gt;The archetype of the many-headed hydra&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#3&quot;&gt;3&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; can be invoked: for every head chopped off, it regrows two. The network architecture of decentralized autonomous organizations emphasizes its edges, meaning the loss of a central node does not threaten organizational longevity.&lt;&#x2F;p&gt;
+&lt;h2&gt;Alegal&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;2_Hermit.jpg&quot; alt=&quot;Hermit Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The alegal quality indicates the organization does not transgress legality but develops a foundational framework over time.&lt;&#x2F;p&gt;
+&lt;p&gt;The idea of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Functional_equivalence_(ecology)&quot;&gt;functional equivalence&lt;&#x2F;a&gt; from ecology can be applied. While decentralized autonomous organizations are not precedent legal forms, their basic characteristics can be mapped from traditional associations when required.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#4&quot;&gt;4&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; &lt;&#x2F;p&gt;
+&lt;h2&gt;Hyperscalable&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;3_Cups03.jpg&quot; alt=&quot;3 of Cups Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The hyperscalable quality indicates the organization can reach large membership sizes and in contrast to the modern firm, become &lt;em&gt;more&lt;&#x2F;em&gt; efficient as it scales.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#5&quot;&gt;5&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;A theory of the firm suggests that as organizations grow, they develop inefficiency costs directly proportional to their membership size. In the case of decentralized autonomous organizations, their toolset allows fractal membership growth—in which each new cell within the organization improves upon the synergy of the whole—to enable large scale coordination. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;executable&quot;&gt;Executable&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;4_Chariot.jpg&quot; alt=&quot;Chariot Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The executable quality indicates the organization can run its operations through minimal protocols such as software applications.&lt;&#x2F;p&gt;
+&lt;p&gt;The ability to register corporations with one click was the first step, and the ability to establish an autonomous company using the command line was the second. Decentralized autonomous organizations envision software product suites that contain the entire operations of a firm out of the box. This quality, however, does not need to implicate access to digital infrastructure, but can extend to a set of robust design patterns easily replicated throughout the organization.&lt;&#x2F;p&gt;
+&lt;h2&gt;Permissionless&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;5_Wands08.jpg&quot; alt=&quot;8 of Wands Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The permissionless quality indicates any entity can enter and exit the organization according to public criteria.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#6&quot;&gt;6&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The conceptual ultimatum of exit, voice, and loyalty figures largely in debates on agency. Decentralized autonomous organizations add the qualification of &lt;em&gt;entrance&lt;&#x2F;em&gt;, meaning that any entity can create, fork, or join the network.&lt;&#x2F;p&gt;
+&lt;h2&gt;Aligned&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;6_Swords02.jpg&quot; alt=&quot;2 of Swords Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The aligned quality indicates the organization possesses incentives to overcome common problems of coordination.&lt;&#x2F;p&gt;
+&lt;p&gt;The field of game theory models interactions between rational decision makers, identifying dilemmas of cooperative, zero-sum, and symmetric games and their inverse. As a counterforce, decentralized autonomous organizations broadly apply mechanism design through economic incentives or social norms&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#7&quot;&gt;7&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; to achieve rough consensus and running orgs.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#8&quot;&gt;8&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; Headless brands and cultural values are equally, if not more, powerful tools for affinity.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#9&quot;&gt;9&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;h2&gt;Co-Owned&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;7_Pents01.jpg&quot; alt=&quot;1 of Pentacles Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The co-owned quality indicates the organization encodes proportional ownership to its members.&lt;&#x2F;p&gt;
+&lt;p&gt;The ownership economy describes a new paradigm of user-owned services,&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#10&quot;&gt;10&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; which is facilitated by peer-to-peer money enabling not only information but value to flow to networks of users. As programmable cooperatives, decentralized autonomous organizations mandate members equitably share in financial, material, and social capital produced by their participation. &lt;&#x2F;p&gt;
+&lt;h2&gt;Mnemonic&lt;&#x2F;h2&gt;
+&lt;img src=&quot;&#x2F;images&#x2F;qualities&#x2F;8_World.jpg&quot; alt=&quot;World Tarot Card&quot; id=&quot;post-dao-qualities&quot;&gt;
+&lt;p&gt;The mnemonic quality indicates the organization automatically can produce a public record through its operations.&lt;&#x2F;p&gt;
+&lt;p&gt;The task of preserving formal and tacit knowledge has been historically assumed by institutions, such as archival libraries and monasteries. Through automating the production of institutional memory, decentralized autonomous organizations can promise accountability, as well as intergenerational knowledge transfer.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+In summary, eight imaginal qualities of decentralized autonomous organizations are autopoietic, alegal, hyperscalable, executable, permissionless, aligned, co-owned, and mnemonic. Drawn from observation, these qualities trace desires for interdependence&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#11&quot;&gt;11&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; growing in the cracks of legacy institutions, as well as the dubious inheritance of cybernetic dreams from a century of unprecedented war. The question of global coordination and patchwork governance will not be put aside during the 2020s. Mapping the organizational unconscious of our time, however impartially, may be one means to stymie its shadow. The term DAO itself may prove a temporary smoke signal under which co-conspirators can gather before it too must be discarded.&lt;&#x2F;p&gt;
+&lt;p&gt;If you would like to contribute to this list, please submit a pull request on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ourmachine&#x2F;ourmachine.github.io&#x2F;blob&#x2F;master&#x2F;content&#x2F;writing&#x2F;eight-qualities-DAOs.md&quot;&gt;Github&lt;&#x2F;a&gt;, or message me on &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;keikreutler&quot;&gt;Twitter&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The qualities listed above are not exhaustive nor do they represent the author’s and their affiliates’ views. A follow up post will address the question of identity, pseudonymity, and avatars in organizations. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;BPR.png&quot; alt=&quot;Blogger Peer Review Seal&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p class=&quot;caption&quot;&gt;Many thanks to the Blogger Peer Review for their thoughts and feedback.&lt;&#x2F;p&gt;
+&lt;!-- Footnotes themselves at the bottom. --&gt;
+&lt;h3 id=&quot;references&quot;&gt;References&lt;&#x2F;h3&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;Rao, &amp;quot;The Eight Metaphors of Organization&amp;quot;, 13 July 2010: &lt;a href=&quot;https:&#x2F;&#x2F;www.ribbonfarm.com&#x2F;2010&#x2F;07&#x2F;13&#x2F;the-eight-metaphors-of-organization&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.ribbonfarm.com&#x2F;2010&#x2F;07&#x2F;13&#x2F;the-eight-metaphors-of-organization&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;Black Socialists in America, Dual Power App: &lt;a href=&quot;https:&#x2F;&#x2F;dualpower.app&#x2F;&quot;&gt;https:&#x2F;&#x2F;dualpower.app&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;3&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;3&lt;&#x2F;sup&gt;
+&lt;p&gt;Bowden, Catlow, Launay, Lotti, Rafferty, “Many-Headed Hydras: DAOs in the Art World”, 2020: &lt;a href=&quot;https:&#x2F;&#x2F;so-far.online&#x2F;many-headed-hydras&#x2F;&quot;&gt;https:&#x2F;&#x2F;so-far.online&#x2F;many-headed-hydras&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;4&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;4&lt;&#x2F;sup&gt;
+&lt;p&gt;COALA, “The DAO Model Law”, 19 December 2020: &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;coala&#x2F;the-dao-model-law-68e5360971ea&quot;&gt;https:&#x2F;&#x2F;medium.com&#x2F;coala&#x2F;the-dao-model-law-68e5360971ea&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;5&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;5&lt;&#x2F;sup&gt;
+&lt;p&gt;Anonymous, &lt;em&gt;dxDAO: Toward super-scalable organizations&lt;&#x2F;em&gt;, 12 July 2019: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gnosis&#x2F;dx-daostack&#x2F;blob&#x2F;master&#x2F;dxdao_whitepaper_v1.pdf&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;gnosis&#x2F;dx-daostack&#x2F;blob&#x2F;master&#x2F;dxdao_whitepaper_v1.pdf&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;6&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;6&lt;&#x2F;sup&gt;
+&lt;p&gt;Frey, Schneider, “Effective Voice: Beyond Exit and Affect in Online Communities”, 25 September 2020: &lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2009.12470&quot;&gt;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2009.12470&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;7&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;7&lt;&#x2F;sup&gt;
+&lt;p&gt;De la Rouviere, “Desire Paths &amp;amp; Markets for Recommendation”, 9 December 2018: &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@simondlr&#x2F;desire-paths-markets-for-recommendation-e701aa835013&quot;&gt;https:&#x2F;&#x2F;medium.com&#x2F;@simondlr&#x2F;desire-paths-markets-for-recommendation-e701aa835013&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;8&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;8&lt;&#x2F;sup&gt;
+&lt;p&gt;“IETF Working Group Guidelines and Procedures”, September 1998: &lt;a href=&quot;https:&#x2F;&#x2F;tools.ietf.org&#x2F;html&#x2F;rfc2418&quot;&gt;https:&#x2F;&#x2F;tools.ietf.org&#x2F;html&#x2F;rfc2418&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;9&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;9&lt;&#x2F;sup&gt;
+&lt;p&gt;Hart, Lotti, Shorin, &amp;quot;Headless Brands&amp;quot;, 2 October 2019: &lt;a href=&quot;https:&#x2F;&#x2F;otherinter.net&#x2F;web3&#x2F;headless-brands&#x2F;&quot;&gt;https:&#x2F;&#x2F;otherinter.net&#x2F;web3&#x2F;headless-brands&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;10&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;10&lt;&#x2F;sup&gt;
+&lt;p&gt;Walden, “The Ownership Economy: Crypto &amp;amp; The Next Frontier of Consumer Software”, 14 July 2020: &lt;a href=&quot;https:&#x2F;&#x2F;variant.fund&#x2F;the-ownership-economy-crypto-and-consumer-software&#x2F;&quot;&gt;https:&#x2F;&#x2F;variant.fund&#x2F;the-ownership-economy-crypto-and-consumer-software&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;11&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;11&lt;&#x2F;sup&gt;
+&lt;p&gt;Herndon, Dryhurst, &lt;em&gt;Interdependence&lt;&#x2F;em&gt;, 2020: &lt;a href=&quot;https:&#x2F;&#x2F;interdependence.fm&#x2F;&quot;&gt;https:&#x2F;&#x2F;interdependence.fm&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;All tarot card images from the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Rider-Waite_tarot_deck&quot;&gt;Smith&lt;&#x2F;a&gt; deck currently in the public domain.&lt;&#x2F;p&gt;
+</description>
+            </item>
         
             <item>
                 <title>Memory I</title>

@@ -67,6 +67,11 @@
         </url>
     
         <url>
+            <loc>https://ourmachine.net/tags/organizations/</loc>
+            
+        </url>
+    
+        <url>
             <loc>https://ourmachine.net/tags/poetry/</loc>
             
         </url>
@@ -100,6 +105,13 @@
             <loc>https://ourmachine.net/writing/byzantine-generalization-problem/</loc>
             
                 <lastmod>2018-08-19</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://ourmachine.net/writing/eight-qualities-daos/</loc>
+            
+                <lastmod>2020-10-01</lastmod>
             
         </url>
     

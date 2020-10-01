@@ -91,7 +91,7 @@ The mnemonic quality indicates the organization automatically can produce a publ
 The task of preserving formal and tacit knowledge has been historically assumed by [stories](https://en.wikipedia.org/wiki/Songline) and by institutions, such as archival libraries and monasteries. Through automating the production of institutional memory, decentralized autonomous organizations can promise accountability, as well as intergenerational knowledge transfer.
 
 <br><br>
-In summary, eight imaginal qualities of decentralized autonomous organizations are autopoietic, alegal, hyperscalable, executable, permissionless, aligned, co-owned, and mnemonic. Drawn from observation, these qualities trace desires for interdependence[^11] growing in the cracks of legacy institutions, as well as the dubious inheritance of cybernetic dreams from a century of unprecedented war. The question of global coordination and patchwork governance will not be put aside during the 2020s. Mapping the organizational unconscious of our time, however impartially, may be one means to stymie its shadow. The term DAO itself may prove a temporary smoke signal under which co-conspirators can gather before it too must be discarded.
+In summary, eight imagined qualities of decentralized autonomous organizations are autopoietic, alegal, hyperscalable, executable, permissionless, aligned, co-owned, and mnemonic. Drawn from observation, these qualities trace desires for interdependence[^11] growing in the cracks of legacy institutions, as well as the dubious inheritance of cybernetic dreams from a century of unprecedented war. The question of global coordination and patchwork governance will not be put aside during the 2020s. Mapping the organizational unconscious of our time, however impartially, may be one means to stymie its shadow. The term DAO itself may prove a temporary smoke signal under which co-conspirators can gather before it too must be discarded.
 
 If you would like to contribute to this list, please submit a pull request on [Github](https://github.com/ourmachine/ourmachine.github.io/blob/master/content/writing/eight-qualities-DAOs.md), or message me on [Twitter](https://twitter.com/keikreutler).
 
@@ -126,7 +126,7 @@ The qualities listed above are not exhaustive nor do they represent the authorâ€
 
 [^11]: Herndon, Dryhurst, _Interdependence_, 2020: [https://interdependence.fm](https://interdependence.fm/). 
 
-All tarot card images from the [Smith](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck) deck currently in the public domain.
+All tarot card images from the [Smith](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck) deck in the public domain.
 
 
 

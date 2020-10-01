@@ -88,7 +88,7 @@ The ownership economy describes a new paradigm of user-owned services,[^10] whic
 
 The mnemonic quality indicates the organization automatically can produce a public record through its operations.
 
-The task of preserving formal and tacit knowledge has been historically assumed by institutions, such as archival libraries and monasteries. Through automating the production of institutional memory, decentralized autonomous organizations can promise accountability, as well as intergenerational knowledge transfer.
+The task of preserving formal and tacit knowledge has been historically assumed by [stories](https://en.wikipedia.org/wiki/Songline) and by institutions, such as archival libraries and monasteries. Through automating the production of institutional memory, decentralized autonomous organizations can promise accountability, as well as intergenerational knowledge transfer.
 
 <br><br>
 In summary, eight imaginal qualities of decentralized autonomous organizations are autopoietic, alegal, hyperscalable, executable, permissionless, aligned, co-owned, and mnemonic. Drawn from observation, these qualities trace desires for interdependence[^11] growing in the cracks of legacy institutions, as well as the dubious inheritance of cybernetic dreams from a century of unprecedented war. The question of global coordination and patchwork governance will not be put aside during the 2020s. Mapping the organizational unconscious of our time, however impartially, may be one means to stymie its shadow. The term DAO itself may prove a temporary smoke signal under which co-conspirators can gather before it too must be discarded.
